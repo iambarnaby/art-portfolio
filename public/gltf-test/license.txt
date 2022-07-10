@@ -1,0 +1,11 @@
+Model Information:
+* title:	House
+* source:	https://sketchfab.com/3d-models/house-9f93e6605e9a4bc0bc07e07532c460fb
+* author:	octane2 (https://sketchfab.com/octane2)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "House" (https://sketchfab.com/3d-models/house-9f93e6605e9a4bc0bc07e07532c460fb) by octane2 (https://sketchfab.com/octane2) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
